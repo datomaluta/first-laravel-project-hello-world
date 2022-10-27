@@ -1,0 +1,25 @@
+body{
+    background: radial-gradient(50% 50% at 50% 50%, #514848 0%, #332E2E 100%);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    height: 100vh;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 48px;
+    text-align: center;
+}
+
+.openCloseTag{
+    color: #fff;
+}
+
+.helloText{
+    color:#a1c8e4
+}
+
+.nameText{
+    color:#98ec70;
+}
+
+.robotImg{
+    margin-top: 92px;
+}
